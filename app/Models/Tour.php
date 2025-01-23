@@ -9,3 +9,5 @@ class Tour extends Model
 {
     use HasFactory;
 }
+
+
